@@ -8,6 +8,9 @@ This java project is used for the batch processing where we do some operations o
   <img src="./Architecture.png" width=650 height=280>
 </p>
 
+> Note : you can check these two links for the rest of the project : 
+> * [Data Stream Processing](https://github.com/HadilHelali/BigDataSpark)
+> * [Visualization](https://github.com/RaouaTrimech/BigDataVisualisation)
 
 For both components of the project, the execution of the generated Java applications will take place within an architecture consisting of three Docker containers. These containers serve specific roles, representing :
 * **a master node (Namenode)** 
