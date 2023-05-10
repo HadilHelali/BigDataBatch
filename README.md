@@ -60,3 +60,7 @@ bd.createCollection('fire-calls-batch')
 mongo fire-calls
 db['fire-calls-batch'].find()
 ```
+
+## Collaborators 
+| Raoua Trimech | Hadil Helali | Soulaima Kahla |
+| ---- | ---- | ---- |
